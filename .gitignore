@@ -1,0 +1,47 @@
+############################
+# Java
+############################
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+############################
+# Build tools
+############################
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+############################
+# IDEs
+############################
+# Eclipse / STS
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+############################
+# OS files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Temporary files
+############################
+*.tmp
+*.swp
